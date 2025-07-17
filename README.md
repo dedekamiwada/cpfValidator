@@ -1,0 +1,1 @@
+Este projeto implementa uma função que valida CPFs com base em seu algoritmo de formação. A validação segue estritamente as regras matemáticas definidas pela Receita Federal para o cálculo dos dígitos verificadores, garantindo que apenas números estruturalmente válidos sejam aprovados.
